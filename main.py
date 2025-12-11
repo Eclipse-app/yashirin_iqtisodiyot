@@ -44,6 +44,7 @@ st.markdown("""
 # Sarlavha
 st.title("🌍 Jahon va O'zbekiston Yashirin Iqtisodiyoti Tahlili")
 st.markdown("### 📈 2020-2025 Yillar Dinamikasi")
+st.markdown("## Tayyorladi: Iskandarov Asilbek")
 
 # Sidebar
 with st.sidebar:
